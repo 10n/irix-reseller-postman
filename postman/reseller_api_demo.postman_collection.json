@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Autentication",
+			"name": "Authentication",
 			"item": [
 				{
 					"name": "GetToken with ClientCredentials",
@@ -52,9 +52,9 @@
 							]
 						},
 						"url": {
-							"raw": "{{tokeUrl}}",
+							"raw": "{{tokenUrl}}",
 							"host": [
-								"{{tokeUrl}}"
+								"{{tokenUrl}}"
 							]
 						}
 					},
